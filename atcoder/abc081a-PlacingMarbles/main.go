@@ -5,6 +5,7 @@ import "fmt"
 func main(){
 	const masuNum=3
 
+	//いいね！
 	var num string
 	count := 0
 
